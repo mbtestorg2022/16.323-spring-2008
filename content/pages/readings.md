@@ -41,4 +41,4 @@ Bellman, Richard. _Dynamic Programming_. New York, NY: Dover, 2003. ISBN: 978048
 
 Bertsekas, Dimitri. _Dynamic Programming and Optimal Control_. Vol. 1 and 2. Nashua, NH: Athena Scientific, 2007. ISBN: 9781886529083.
 
-Kwakernaak, Huibert, and Raphael Sivan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Linear Optimal Control Systems (PDF)_](https://www.semanticscholar.org/paper/Linear-Optimal-Control-Systems-Kwakernaak-Sivan/d7c1406e3def1fe10d6028a397ed257b9f9a50dd). New York, NY: Wiley, 1972. ISBN: 9780471511106.
+Kwakernaak, Huibert, and Raphael Sivan. [_Linear Optimal Control Systems (PDF)_](https://www.semanticscholar.org/paper/Linear-Optimal-Control-Systems-Kwakernaak-Sivan/d7c1406e3def1fe10d6028a397ed257b9f9a50dd). New York, NY: Wiley, 1972. ISBN: 9780471511106.
